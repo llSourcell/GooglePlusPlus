@@ -1,4 +1,4 @@
-# thinkster-django-angular-boilerplate
+# GooglePlusPlus (under construction)
 
 ## Installation
 
